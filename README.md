@@ -63,18 +63,6 @@ All commands that can be called from chat via different calls. Note that some co
 | `<botname> <text>`      | Talk to the bot. Questions can be asked or a conversation can be started with the native speech engine. | `Hey Monkalot, how are you doing?`, `What's 2Head + 2Head? @Monkalot` |
 | `[<hearthstone card>]` | Get some information about a hearthstone card. Allows up to two spelling mistakes. | `[Malganis]` |
 
-### Chat games:
-
-| Command               | Description           | Examples  |
-| --------------------- | --------------------- | --------- |
-| `!kstart`, `[!pstop]` | Starts the *KappaGame*. Guess the right amount of Kappas to win. Type Kappas to start playing. | - |
-| `!estart`, `[!estop]`, `[!emotes]`| Starts the *GuessEmoteGame*. Guess the right emote from the list. Type emotes to start playing. While the game is active `!emotes` shows all possible emotes. | - |
-| `!mstart`, `[!mstop]` | Starts the *GuessMinionGame*. Guess the right minion card. Type minion names to play. After a short time the game will give clues to the chat. | - |
-| `!pstart`, `[!pstop]` | Starts the *MonkalotParty*. A Minigames tournament with 7 games by default. | - |
-| `<emote>-pyramids`    | Build emote pyramids to gain spampoints. All Twitch- and BTTV-emotes and emojis are supported. | `Kappa`<br/>`Kappa`&nbsp;`Kappa`<br/>`Kappa` |
-
-All games can be canceled by their respected `!stop` command.
-
 ### Moderator commands:
 
 | Command               | Description           | Examples  |
