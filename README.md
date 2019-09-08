@@ -1,6 +1,5 @@
-
 # Twitch-Vader
-Django app which analyzes twitch chat messages for their sentiment and hype. \
+Measures sentiment from viewers. Uses Twitch IRC API \
 Written for python 3.5, using Vaders sentiment analysis \
 \
 Django project must be run with --noreload flag: `manage.py runserver --noreload`\
