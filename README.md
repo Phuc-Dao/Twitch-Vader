@@ -1,10 +1,7 @@
 # Twitch-Vader
-Measures sentiment from viewers. Uses Twitch IRC API \
-Written for python 3.5, using Vaders sentiment analysis \
-\
-Django project must be run with --noreload flag: `manage.py runserver --noreload`\
-Vader Sentiment Analysis Lexicon can be updated in settings.py by updating TWITCH_LEXICON\
-\
+>Measures sentiment from twitch viewers using Vaders sentiment analysis \
+
+
 Basic Lexicon contains following values:
 
     '<3': 0.4,
