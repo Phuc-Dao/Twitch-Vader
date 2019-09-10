@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="client/img/dotino.png">
+    <img src="/Blue_Robot.png" height="200" />
+  </a>
+  <br>
+  <br>
+  <b>Twitch sentiment anlysis bot.</b>
+</p>
+
+
+&nbsp;
 # Twitch-Vader
 >Measures sentiment from twitch viewers using Vaders sentiment analysis \
 
