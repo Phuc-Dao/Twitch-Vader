@@ -2,9 +2,7 @@
   <a href="client/img/dotino.png">
     <img src="/Blue_Robot.png" height="200" />
   </a>
-  <br>
-  <br>
-  <b>Twitch sentiment anlysis bot.</b>
+
 </p>
 
 
