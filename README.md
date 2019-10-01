@@ -1,6 +1,6 @@
 <p align="center">
   <a href="client/img/dotino.png">
-    <img src="/Blue_Robot.png" height="200" />
+    <img src="/static/Blue_Robot.png" height="200" />
   </a>
 
 </p>
