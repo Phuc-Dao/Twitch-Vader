@@ -95,3 +95,25 @@ All commands that can be called from chat via different calls. Note that some co
 | `!addmod <username>`  | Adds a mod to the list of *trusted mods*. | `!addmod Monkalot` |
 | `!delmod <username>`  | Deletes a mod from the list of *trusted mods*. | `!delmod Monkalot` |
 | `!g <username> <pronouns>` | Allows changing gender pronouns for a user. Three pronouns have to be given. | `!g monkalot she her hers` |
+
+## How to "Run" 
+
+Twitch Disposition is not compiled into an executable. The best way to run the program is to open the "src" folder in your Python IDE of choice. From here there are three steps to get the program running. 
+
+1. Edit the "CHANNEL" variable "Settings.py" file to match the twitch streamer whose chat room you would like to analyze. NOTE the channel name needs to be in all lowercase. 
+2. Ensure you have all the dependent packages for your Python Interpreter (PyQt5, nltk, numpy).
+3. Run the "Run.py" file. 
+
+When you are finished stop the script through your Python IDE. 
+
+#### Contributing
+
+Anyone is welcome to re-use the code used in this project.
+
+#### References
+
+* [Python](https://www.python.org/)
+* [Twitch API](https://dev.twitch.tv/)
+* [NLTK](http://www.nltk.org/)
+* [VADER](https://github.com/cjhutto/vaderSentiment)
+* [PyQtGraph](http://www.pyqtgraph.org/)
