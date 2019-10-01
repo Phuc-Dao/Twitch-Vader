@@ -5,7 +5,6 @@
 
 </p>
 
-
 &nbsp;
 # Twitch-Vader
 >Measures sentiment from twitch viewers using Vaders sentiment analysis \
@@ -105,6 +104,20 @@ Twitch Disposition is not compiled into an executable. The best way to run the p
 3. Run the "Run.py" file. 
 
 When you are finished stop the script through your Python IDE. 
+
+### VADER
+
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for
+Sentiment Analysis of Social Media Text. Eighth International Conference on
+Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
+
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. It is fully open-sourced under the [MIT License](http://choosealicense.com/).
+
+### Natural Language Toolkit (NLTK)
+
+[NLTK](http://www.nltk.org/) is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
+
+Thanks to a hands-on guide introducing programming fundamentals alongside topics in computational linguistics, plus comprehensive API documentation, NLTK is suitable for linguists, engineers, students, educators, researchers, and industry users alike. NLTK is available for Windows, Mac OS X, and Linux. Best of all, NLTK is a free, open source, community-driven project.
 
 #### Contributing
 
